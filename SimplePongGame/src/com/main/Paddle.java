@@ -21,9 +21,9 @@ public class Paddle {
 		this.left = left;
 		
 		if (left) {
-			x = 0;
+			x = 10;
 		} else {
-			x = Game.WIDTH - width;
+			x = Game.WIDTH - width - 10;
 		}
 		
 		y = Game.HEIGHT/2 - height/2;
