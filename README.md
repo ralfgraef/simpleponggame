@@ -4,4 +4,4 @@ Simple version of the classic pong game, just to bring back some basic java step
 
 Screenshot:
 
-<img src="/simpleponggame/res/images/.png" alt="Screnshot of a simple Java Tic-Tac-Toe-Game" title="Screnshot of a simple Java Tic-Tac-Toe-Game">
+<img src="/simpleponggame/res/images/Bildschirmfoto vom 2022-09-20 16-00-03.png.png" alt="Screnshot of a simple Java Pong-Game" title="Screnshot of a simple Java Pong-Game">
